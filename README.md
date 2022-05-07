@@ -1,2 +1,2 @@
 # weldingeu-dapp
-Site stub
+Stup site
